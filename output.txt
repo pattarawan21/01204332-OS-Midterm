@@ -1,0 +1,12 @@
+Show stack growth
+Recursive Function call stack address :0000008577fff63c
+Recursive Function call stack address :0000008577fff5fc
+Recursive Function call stack address :0000008577fff5bc
+Show heap growth
+hp1 address Function call stack address in func:000002174d6f1450
+hp2 address Function call stack address in func:000002174d6f1470
+hp3 address Function call stack address in func:000002174d6f1490
+Show address global variable
+Global_Variable address i:00007ff6086d7040
+Global_Variable address j:00007ff6086d2010
+Global_Variable address k:00007ff6086d2014
