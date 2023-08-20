@@ -21,9 +21,9 @@ int main(){
     hp2 = (int*)malloc(sizeof(int));
     hp3 = (int*)malloc(sizeof(int));
     printf("Show heap growth\n");
-    printf("hp1 address Function call stack address in func:%p\n ",hp1);
-    printf("hp2 address Function call stack address in func:%p\n ",hp2);
-    printf("hp3 address Function call stack address in func:%p\n ",hp3);
+    printf("hp1 address :%p\n ",hp1);
+    printf("hp2 address :%p\n ",hp2);
+    printf("hp3 address :%p\n ",hp3);
     printf("Show address global variable\n");
     printf("Global_Variable address i:%p\n ",&i);
     printf("Global_Variable address j:%p\n ",&j);
